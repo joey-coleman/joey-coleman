@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I'm Joey Coleman, presently at [Aiven.io](https://aiven.io), and formerly of [Kira Systems](https://kirasystems.com), Aarhus University, and Newcastle University.
 
 <!--
 **joey-coleman/joey-coleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
